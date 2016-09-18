@@ -1,0 +1,17 @@
+In particular , we experimentally validate common regulation of Mtpn by miR-375 , miR-124 and let-7b and thus provide evidence for coordinate microRNA control in mammals .	let-7b	miR-124	Mtpn	miR-375
+CONCLUSIONS : Our results demonstrated that the decreased expression of let-7b could lead to the high expression of CYP2J2 protein in cancerous tissues .	let-7b	CYP2J2
+Furthermore , let-7b may diminish cell proliferation and promote cell apoptosis of tumor cells via posttranscriptional repression of CYP2J2 .	CYP2J2	let-7b	tumor
+In addition , let-7b decreased the enzymatic activity of endogenous CYP2J2 .	CYP2J2	let-7b
+Let-7b significantly inhibited the tumor phenotype by targeting CYP2J2 .	CYP2J2	Let-7b	tumor
+Luciferase and western blot assays revealed that CYP2J2 was regulated by let-7b .	let-7b	CYP2J2
+CONCLUSION : I treatment inhibited the expression of miR-100 , which modulated RBSP3 in FTC cells .	RBSP3	miR-100
+Our study demonstrated that miR-100 played an important role in pancreatic cancer development , possibly through targeting FGFR3 .	pancreatic	FGFR3	miR-100
+The predicted target of miR-100 , fibroblast growth factor receptor 3 ( FGFR3 ) , was downregulated by siRNA to examine its effect on pancreatic cancer cells .	pancreatic	FGFR3	fibroblast growth factor receptor 3	receptor	miR-100
+Our aim is to analyze the role of miR-100 in bladder cancer cell lines in controlling the expression of some of its possible target genes , including FGFR3 and its relationship with proliferation , apoptosis and DNA ploidy .	bladder cancer	FGFR3	miR-100
+Recently , lowered expression of miR-100 , resulting in upregulation of FGFR3 , has been correlated with low-grade , non-invasive bladder urothelial cancer , as an alternative oncogenesis pathway to the typical FGFR3 gene mutation .	FGFR3	miR-100
+Bioinformatics analysis and luciferase reporter assay suggest that miR-100 binds to the 3'UTR of FGFR3 mRNA to prevent its translation .	FGFR3	miR-100
+Here we reported significantly higher levels of fibroblast growth factor receptor 3 ( FGFR3 ) and significantly lower levels of miR-100 in the OS specimen , compared to those in the paired normal bone tissues .	OS	FGFR3	miR-100	fibroblast growth factor receptor 3
+Luciferase essay showed FGFR3 was direct target of miR-100 .	miR-100	FGFR3
+Taken together , our data demonstrate that miR-100 may inhibit the growth of OS through FGFR3 .	miR-100	FGFR3	OS
+We found that overexpression of miR-100 in OS cells decreased FGFR3 protein levels , whereas inhibition of miR-100 increased FGFR3 protein levels , without affecting FGFR3 transcripts .	miR-100	OS	FGFR3
+FGFR3 was significantly downregulated by overexpressing miR-100 in pancreatic cancer cells and knocking down FGFR3 by siRNA exerted similar effect as miR-100 .	FGFR3	miR-100	pancreatic
