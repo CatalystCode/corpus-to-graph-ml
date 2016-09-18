@@ -139,7 +139,7 @@ def to_bag_of_words(train_samples, test_samples, ngram_range=DEFAULT_BOW_NGRAM_R
 
         train_data_features = vectorizer.fit_transform(train_samples)
         test_data_features = vectorizer.transform(test_samples)
-        return train_data_features, test_data_features
+        return train_data_features, test_data_features, vectorizer
     
 def get_bow_features(train_samples, test_samples, ngram_range):
     return to_bag_of_words(train_samples, test_samples, ngram_range=ngram_range)
